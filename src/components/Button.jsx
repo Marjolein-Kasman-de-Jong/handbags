@@ -14,7 +14,7 @@ function Button({children, disabled}) {
                 {`${children}`}
             </button>
         </>
-    )
+    );
 }
 
 export default Button;

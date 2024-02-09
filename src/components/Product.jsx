@@ -1,5 +1,4 @@
-function Product({label, img, pText, price}) {
-
+function Product({ label, img, pText, price }) {
     return (
         <article>
             <span>{label}</span>
